@@ -49,7 +49,7 @@ cd Hypnos-Premium
 
 4. Menjalankan Program:
 ```bash
-python main.py
+python run.py
 ```
 
 ---
