@@ -80,7 +80,7 @@ python run.py
 ## 🔓 Premium Access
 Tools ini bersifat **Berbayar (Premium Service)**. Untuk mendapatkan Password Akses agar script ini dapat dijalankan, Anda diwajibkan melakukan aktivasi.
 
-**INVESTASI LISENSI: Rp 150.000,-**
+**INVESTASI LISENSI: Rp Sesuka Hati (intinya sedekah buat beli kopi aja),-**
 
 ## 📩 Hubungi Kami
 Siapkan lisensi Anda dengan menghubungi pengembang melalui WhatsApp:
